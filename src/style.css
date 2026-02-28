@@ -22,7 +22,6 @@
   }
 }
 
-
 /* animatedBorder css start */
 .card {
   position: relative;
@@ -45,7 +44,7 @@
     #22c55e
   );
   background-size: 300% 300%;
-  animation: borderAnimation 6s linear infinite;
+  animation: borderAnimation 2s linear infinite;
    pointer-events: none;
 
   /* THIS makes only border visible */
